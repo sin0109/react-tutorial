@@ -1,0 +1,4 @@
+1.git hub (https://github.com/reactjs/react-tutorial)よりfork
+2.eclipse import -> git (uri複製) -> 一般PROJとして
+3.package.jsonにlite-server / concurrentlyを追加。右クリック -> npm install (node_modulesディレクトリが生成)
+4.package.json右クリック -> npm -> goal = startを指定。lite-server, node server.jsが起動
